@@ -44,7 +44,7 @@ require (
 	github.com/opencontainers/go-digest v1.0.0-rc1
 	github.com/opencontainers/image-spec v1.0.1
 	github.com/opencontainers/runc v1.0.0-rc9.0.20200221051241-688cf6d43cc4
-	github.com/opencontainers/runtime-spec v1.0.1
+	github.com/opencontainers/runtime-spec v1.0.2
 	github.com/opencontainers/selinux v1.3.2 // indirect
 	github.com/opentracing-contrib/go-stdlib v0.0.0-20171029140428-b1a47cfbdd75
 	github.com/opentracing/opentracing-go v0.0.0-20171003133519-1361b9cd60be
