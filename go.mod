@@ -18,7 +18,7 @@ require (
 	github.com/containerd/go-runc v0.0.0-20200220073739-7016d3ce2328
 	github.com/containerd/ttrpc v0.0.0-20200121165050-0be804eadb15 // indirect
 	github.com/containerd/typeurl v0.0.0-20200205145503-b45ef1f1f737 // indirect
-	github.com/coreos/go-systemd/v22 v22.0.0
+	github.com/coreos/go-systemd/v22 v22.1.0
 	github.com/docker/cli v0.0.0-20200227165822-2298e6a3fe24
 	github.com/docker/distribution v0.0.0-20200223014041-6b972e50feee
 	github.com/docker/docker v0.0.0
