@@ -21,7 +21,7 @@ require (
 	github.com/coreos/go-systemd/v22 v22.0.0
 	github.com/docker/cli v0.0.0-20200227165822-2298e6a3fe24
 	github.com/docker/distribution v0.0.0-20200223014041-6b972e50feee
-	github.com/docker/docker v0.0.0
+	github.com/docker/docker v0.12.0
 	github.com/docker/docker-credential-helpers v0.6.0 // indirect
 	github.com/docker/go-connections v0.3.0
 	github.com/docker/libnetwork v0.8.0-dev.2.0.20200226230617-d8334ccdb9be
