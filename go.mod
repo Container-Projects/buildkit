@@ -52,7 +52,7 @@ require (
 	github.com/pkg/profile v1.2.1
 	github.com/serialx/hashring v0.0.0-20190422032157-8b2912629002
 	github.com/sirupsen/logrus v1.4.2
-	github.com/stretchr/testify v1.4.0
+	github.com/stretchr/testify v1.6.1
 	github.com/syndtr/gocapability v0.0.0-20180916011248-d98352740cb2 // indirect
 	github.com/tonistiigi/fsutil v0.0.0-20200225063759-013a9fe6aee2
 	github.com/tonistiigi/units v0.0.0-20180711220420-6950e57a87ea
