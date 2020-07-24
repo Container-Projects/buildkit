@@ -26,7 +26,7 @@ require (
 	github.com/docker/go-connections v0.3.0
 	github.com/docker/libnetwork v0.8.0-dev.2.0.20200226230617-d8334ccdb9be
 	github.com/gofrs/flock v0.7.0
-	github.com/gogo/googleapis v1.3.2
+	github.com/gogo/googleapis v1.4.0
 	github.com/gogo/protobuf v1.3.1
 	github.com/golang/protobuf v1.3.3
 	github.com/google/go-cmp v0.3.1
