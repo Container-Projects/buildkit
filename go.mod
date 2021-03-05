@@ -29,7 +29,7 @@ require (
 	github.com/gogo/googleapis v1.3.2
 	github.com/gogo/protobuf v1.3.1
 	github.com/golang/protobuf v1.3.3
-	github.com/google/go-cmp v0.3.1
+	github.com/google/go-cmp v0.5.5
 	github.com/google/shlex v0.0.0-20150127133951-6f45313302b9
 	github.com/google/uuid v1.1.1 // indirect
 	github.com/grpc-ecosystem/grpc-opentracing v0.0.0-20180507213350-8e809c8a8645
