@@ -1,0 +1,23 @@
+version: 2
+updates:
+- package-ecosystem: gomod
+  directory: "/"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: github.com/coreos/go-systemd/v22
+    versions:
+    - 22.1.0
+    - 22.2.0
+    - 22.3.0
+  - dependency-name: github.com/golang/protobuf
+    versions:
+    - 1.4.3
+    - 1.5.1
+  - dependency-name: github.com/google/go-cmp
+    versions:
+    - 0.5.4
+  - dependency-name: github.com/gogo/googleapis
+    versions:
+    - 1.4.0
